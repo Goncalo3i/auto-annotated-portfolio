@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
-  url: /images/Captura de ecrã_4-10-2024_15387_www.figma.com.jpeg
+  url: /images/Captura de ecrã_4-10-2024_154152_www.figma.com.jpeg
 media:
   type: ImageBlock
   url: /images/Captura de ecrã_4-10-2024_15387_www.figma.com.jpeg
