@@ -5,7 +5,7 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  O projeto foi desenvolvido com o objétivo de ter uma base de dados e conseguir
+  O projeto foi desenvolvido com o objetivo de ter uma base de dados e conseguir
   adicionar, pesquisar, editar e eliminar algo através do site.
 featuredImage:
   type: ImageBlock
