@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Site com pesquisa em db
+title: Site com db
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
