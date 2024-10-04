@@ -9,7 +9,7 @@ description: >-
   adicionar,pesquisar,editar e eliminar algo atraves do site.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/ccc.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
