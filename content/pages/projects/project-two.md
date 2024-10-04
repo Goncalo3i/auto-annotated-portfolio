@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
-  url: /images/image.png
+  url: /images/aa.png
 media:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 152921.png
