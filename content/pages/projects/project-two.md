@@ -13,7 +13,7 @@ featuredImage:
   url: /images/Captura de ecrã_4-10-2024_15387_www.figma.com.jpeg
 media:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 152921.png
+  url: /images/Captura de ecrã_4-10-2024_15387_www.figma.com.jpeg
   altText: Project image
 ---
 <div style="text-align: left">[**https://encurtador.com.br/gHFXV**](https://encurtador.com.br/gHFXV)</div>
