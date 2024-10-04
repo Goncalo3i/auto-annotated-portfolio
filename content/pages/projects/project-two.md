@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   Neste projeto foi pedido uma aplicação movel com a explicação do curso de
-  Gestão e programação de sistemas informáticos
+  Gestão e programação de sistemas informáticos.
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
