@@ -5,9 +5,8 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Neste projeto foi pedido uma aplicação movel com a explicação do curso de
+  Gestão e programação de sistemas informáticos
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
