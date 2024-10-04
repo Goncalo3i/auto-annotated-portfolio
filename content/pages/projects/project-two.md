@@ -13,7 +13,7 @@ featuredImage:
   url: /images/image.png
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/image.png
   altText: Project image
 ---
 
