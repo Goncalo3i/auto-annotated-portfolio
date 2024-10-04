@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Olá, eu sou o Gonçalo Ferreira, estudante no curso técnico de gestão e
+      Olá,eu sou o Gonçalo Ferreira, estudante no curso técnico de gestão e
       programação de sistemas informáticos
     subtitle: Estes são alguns dos trabalhos de desenvolvi ao longo de alguns anos.
     styles:
