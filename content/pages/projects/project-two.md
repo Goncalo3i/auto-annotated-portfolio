@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   Neste projeto foi pedido uma aplicação movel com o objetivo final de ser o
-  template de uma aplicação de musica e ter algumas funcionalidades.
+  template de uma aplicação de musica e ter algumas funcionalidade .
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image

@@ -1,12 +1,12 @@
 ---
 type: ProjectLayout
-title: Site com pesquisa em db
+title: Site com db
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
   O projeto foi desenvolvido com o objetivo de ter uma base de dados e conseguir
-  adicionar, pesquisar, editar e eliminar algo através do site.
+  adicionar, pesquisar, editar e eliminar algum utilizador.
 featuredImage:
   type: ImageBlock
   url: /images/ccc.png
