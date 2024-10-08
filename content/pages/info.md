@@ -14,16 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-
-      Sou uma pessoa que gosta
+      <div style="text-align: left">Sou uma pessoa que gosta
       muito de interagir e
       trabalho muito bem em
       grupo, sou determinado ,
       consigo integrar-me
-      facilmente e odeio estar parado.
-
-
-
+      facilmente e odeio estar parado.</div>
 
     media:
       type: ImageBlock
