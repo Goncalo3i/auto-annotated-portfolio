@@ -23,7 +23,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/foto perfil pass.JPG
       altText: Hero image
     styles:
       self:
