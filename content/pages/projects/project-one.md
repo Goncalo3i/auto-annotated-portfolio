@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Google Sites
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  O meu google sites é o sitio onde eu coloco todos os meus trabalhos de aréas
+  técnicas do meu curso.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Captura de ecrã 2024-10-08 164309.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
