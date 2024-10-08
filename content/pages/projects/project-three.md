@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Site com db
 colors: colors-a
-date: '2024-01-01'
+date: ''
 client: ''
 description: >-
   O projeto foi desenvolvido com o objetivo de ter uma base de dados e conseguir
