@@ -4,7 +4,9 @@ title: Google Sites
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: O meu google sites é onde eu coloco todos os meus trabalhos de aréas técnicas.
+description: >-
+  O meu google sites é o sitio onde eu coloco todos os meus trabalhos de aréas
+  técnicas do meu curso.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
