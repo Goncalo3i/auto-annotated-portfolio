@@ -15,6 +15,11 @@
             },
             {
                 "type": "Link",
+                "label": "Projetos",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
                 "label": "Home",
                 "altText": "",
                 "url": "/home",
@@ -22,11 +27,6 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Projetos",
-                "url": "/projects"
             }
         ],
         "socialLinks": [],
