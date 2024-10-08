@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Landing
+title: Home
 sections:
   - type: HeroSection
     title: >-
