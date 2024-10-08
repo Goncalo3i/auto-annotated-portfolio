@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: APP MUSICA
 colors: colors-a
-date: '2023-02-01'
+date: '2023-02-17'
 client: ''
 description: >-
   Neste projeto foi pedido uma aplicação movel com o objetivo final de ser o
