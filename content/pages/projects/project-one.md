@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Google Sites
 colors: colors-a
-date: ''
+date: '2024-10-08'
 client: ''
 description: >-
   O meu google sites é o sítio onde eu coloco todos os meus trabalhos de aréas
