@@ -7,11 +7,7 @@ sections:
       Olá,eu sou o Gonçalo Ferreira, estudante no curso técnico de gestão e
       programação de sistemas informáticos
     subtitle: Estes são alguns dos trabalhos de desenvolvi ao longo de alguns anos.
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: ''
     actions: []
     colors: colors-f
     backgroundSize: full
