@@ -5,7 +5,7 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  O meu google sites é o sitio onde eu coloco todos os meus trabalhos de aréas
+  O meu google sites é o sítio onde eu coloco todos os meus trabalhos de aréas
   técnicas do meu curso.
 featuredImage:
   type: ImageBlock
