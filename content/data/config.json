@@ -10,13 +10,23 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Informação",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "Projetos",
                 "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Home",
+                "altText": "",
+                "url": "/home",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
