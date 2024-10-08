@@ -17,6 +17,16 @@
                 "type": "Link",
                 "label": "Projetos",
                 "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/Home",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [],
